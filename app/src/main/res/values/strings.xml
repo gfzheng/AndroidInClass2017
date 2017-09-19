@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AndroidInClass2017</string>
+<string name="app_name">AndroidInClass2017</string>
+    <string name="demo">demo</string>
 </resources>
